@@ -1,1 +1,2 @@
-# wabi-sabi
+# Welcome to wabi-sabi! 
+# Wabi-sabi is an educational, two-player game that teaches its users about pollution. With a set of keys, each player can control one character. The first one to deplete their opponent's life bar wins. Have fun with the game!
